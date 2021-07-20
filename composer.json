@@ -1,0 +1,16 @@
+{
+    "name": "ynievesdotnetteam/ti-ext-qvapay",
+    "description": "QvaPay Payment Gateway for TastyIgniter",
+    "type": "library",
+    "require": {
+        "ynievesdotnetteam/omnipay-qvapay": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoinier Hernandez Nieves",
+            "email": "ynievesdotnet@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

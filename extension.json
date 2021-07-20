@@ -1,0 +1,12 @@
+{
+    "code": "ynievesdotnetteam.qvapay",
+    "name": "QvaPay Payment Gateway Register",
+    "description": "An extension for TastyIgniter which offers the ability to use the QvaPay Payment Gateway",
+    "version": "0.1.0",
+    "author": "YnievesDotNet Team",
+    "icon": {
+      "class": "fa fa-money",
+      "backgroundColor": "#3763EB",
+      "color": "#FFF"
+    }
+  }
